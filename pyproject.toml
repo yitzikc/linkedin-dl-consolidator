@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "linkedin-dl-consolidator"
 version = "0.1.0"
 authors = [
-  { name="Isac", email="isac@example.com" },
+  { name="Isac Casapu", email="yitzikc@github.com" },
 ]
 description = "A basic tool to consolidate LinkedIn contact and message CSV files into a JSON representation."
 readme = "README.md"
@@ -15,6 +15,10 @@ classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
+    "Development Status :: 3 - Alpha",
+    "Topic :: Communications",
+    "Topic :: Text Processing",
+    "Topic :: Utilities",
 ]
 dependencies = [
     "pandas",

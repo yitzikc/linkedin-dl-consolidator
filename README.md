@@ -7,7 +7,7 @@ A simple Python package for consolidating LinkedIn data exports into a single JS
 You can install this package directly from GitHub:
 
 ```bash
-pip install git+https://github.com/YOUR_USERNAME/linkedin-dl-consolidator.git
+pip install git+https://github.com/yitzikc/linkedin-dl-consolidator.git
 ```
 
 ## Features
